@@ -16,14 +16,14 @@ const chiefTAs = [
 
 const supervisors = [
     {
-        fullName: 'Parnian Fazel',
-        image: 'Parnian.jpg',
-        emailAddress: 'pr.fazel@gmail.com',
-    },
-    {
         fullName: 'Hesam Asadollahzadeh',
         image: 'Hesam.jpg',
         emailAddress: 'asadzadeh.hesam@ut.ac.ir',
+    },
+    {
+        fullName: 'Parnian Fazel',
+        image: 'Parnian.jpg',
+        emailAddress: 'pr.fazel@gmail.com',
     },
 ]
 

@@ -2,8 +2,8 @@
 title: Staff
 layout: home
 ---
-<script src="assets/js/script.js" defer></script>
-<link rel="stylesheet" href="assets/css/style.css">
+<script src="../assets/js/script.js" defer></script>
+<link rel="stylesheet" href="../assets/css/style.css">
 
 ## Instructors
 <div id="instructor" class="staff-container"></div>
