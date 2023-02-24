@@ -2,6 +2,13 @@
 title: Policies
 layout: home
 ---
+## Table of Contents
+{: .no_toc .text-delta }
+
+- TOC
+{:toc}
+
+---
 
 ## Classes
 
@@ -58,10 +65,12 @@ Python3, [Jupyter Notebook](https://jupyter.org/)
 
 | Activity | Percentage |
 |:-------------|:------------------|
-| Computer Assignments | ~ 30% |
+| Computer Assignments | ~ 40% |
 | Homeworks | ~ 15% |
 | Quizzes | ~ 5% |
-| Midterm + Final | ~ 40% |
+| Midterm | ~ 20% |
+| Final | ~ 25% |
+| Total | ~ 105% |
 
 **Cut Off**: Obtaining at least 30% of project marks +
 Obtaining at least half of the total exams marks (midterm + final)

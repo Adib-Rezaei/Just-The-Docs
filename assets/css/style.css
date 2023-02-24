@@ -1,5 +1,5 @@
 
-h2 {
+h3 {
     margin-top: 0 !important;
 }
 
@@ -8,7 +8,8 @@ p {
 }
 
 .container {
-    margin-left: 10px;
+    margin-top: 10px;
+    margin-left: 15px;
 }
 
 .container p {
@@ -18,6 +19,7 @@ p {
 .main-container {
     display: flex;
     margin-top: 30px;
+    margin-left: 20px;
 }
 
 .profile-picture {
