@@ -7,6 +7,8 @@ layout: home
 
 # Instructors
 
+# Chief TA
+
 # Supervisors
 
 # TAs
